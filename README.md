@@ -1,1 +1,1 @@
-# girdpatcher-app
+# gridpatcher
